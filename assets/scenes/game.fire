@@ -2145,7 +2145,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 66.74,
-      "height": 135.6
+      "height": 271.2
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -2200,7 +2200,7 @@
     "_string": "0\n",
     "_N$string": "0\n",
     "_fontSize": 120,
-    "_lineHeight": 60,
+    "_lineHeight": 120,
     "_enableWrapText": true,
     "_N$file": null,
     "_isSystemFontUsed": true,
